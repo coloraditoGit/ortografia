@@ -1,0 +1,81 @@
+siguiendo este temario.
+"""
+1. Acentuación
+
+Reglas generales de acentuación (agudas, llanas y esdrújulas)
+Acentuación de palabras sobresdrújulas
+Diptongos, triptongos e hiatos
+Acento diacrítico (tú/tu, él/el, más/mas…)
+Palabras compuestas (con y sin guion)
+Adverbios terminados en -mente
+Uso de la tilde en mayúsculas
+
+2. Uso de letras
+
+Uso de b / v
+Uso de g / j
+Uso de c / z / s
+Uso de h
+Uso de ll / y
+Uso de r / rr
+Uso de x
+Escritura de palabras homófonas (echo/hecho, vaya/valla…)
+
+3. Ortografía de la palabra
+
+Prefijos y sufijos (escritura correcta)
+Composición y derivación
+Formación de palabras
+Escritura de extranjerismos y latinismos
+Uso correcto de mayúsculas y minúsculas
+
+4. Signos de puntuación
+
+Punto (seguido, aparte, final)
+Coma (enumeración, vocativos, incisos…)
+Punto y coma
+Dos puntos
+Puntos suspensivos
+Signos de interrogación y exclamación
+Comillas (latinas, inglesas…)
+Paréntesis, corchetes y rayas
+
+5. Ortografía del texto
+
+División de palabras al final de línea
+Uso de abreviaturas, siglas y acrónimos
+Representación de números (cifras o palabras)
+Uso correcto de fechas y horas
+
+6. Normas de corrección escrita
+
+Concordancia básica (en relación con la forma escrita)
+Evitación de errores comunes
+Revisión ortográfica de textos
+
+7. Nuevas normas de la RAE
+
+Eliminación de tildes en ciertos casos (guion, solo según contexto…)
+Adaptación de extranjerismos
+Cambios en el alfabeto (ch y ll ya no son letras independientes)"""
+
+Preapra 100 preguntas en este formato :
+debe tener 4 opciones cada pregunta.
+solo una pregunta puede ser correcta, no pueden ser ambiguas dependiendo del contexto, si estan basadas en un contexto mencionalo en la pregunta.
+si es correcta o incorrecta debe estar acompañado de la explicación de porque.
+Revisa todas las respuestas, tiene que tener explicacion
+
+"""
+[
+  {  "id": 1
+    "pregunta": "¿Cuál es la forma correcta?",
+     "opciones":	A) Hay B) Ahí C) Ay D) Hai",
+    "A": "Correcta: 'Hay' es del verbo haber y expresa existencia.",
+    "B": "Incorrecta: 'Ahí' indica lugar.",
+    "C": "Incorrecta: 'Ay' es una interjección.",
+    "D": "Incorrecta: 'Hai' no existe en español.",
+    "contador_OK": 0,
+    "contador_KO": 0,
+    "olvidar": 0
+  },
+  
